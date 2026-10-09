@@ -1,0 +1,3 @@
+{"question":"How do I return an unused item?","intent":"return","relevant":["sample_support_faq.md"]}
+{"question":"Where can I find tracking information?","intent":"shipping","relevant":["sample_support_faq.md"]}
+{"question":"Does every product have the same warranty?","intent":"warranty","relevant":["sample_support_faq.md"]}
